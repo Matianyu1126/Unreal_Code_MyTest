@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealCode_MyTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
